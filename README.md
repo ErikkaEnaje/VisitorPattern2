@@ -7,4 +7,5 @@ Implement a visitor design pattern approach. You must show the different element
 
 # UML DIAGRAM
 - Visitor Pattern
-  ![Blank diagram (3)](https://github.com/ErikkaEnaje/VisitorPattern2/assets/142382057/624cb330-495c-40d8-995f-cf789f5342dd)
+  ![Blank diagram (4)](https://github.com/ErikkaEnaje/VisitorPattern2/assets/142382057/6c83a690-1bfb-425b-84f6-875198cf8fcc)
+
